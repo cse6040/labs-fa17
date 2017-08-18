@@ -3,3 +3,7 @@
 This repository contains the Jupyter notebooks (assignments) for
 [Georgia Tech's CSE 6040: Intro to Computing for Data Analysis, Fall
 2017 edition](http://cse6040.gatech.edu/fa17).
+
+* *Lab 0*: Sample notebook
+* *Lab 1*: Python bootcamp review
+* *Lab 2*: Association rule mining
