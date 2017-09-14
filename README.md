@@ -9,3 +9,4 @@ This repository contains the Jupyter notebooks (assignments) for
 * *Lab 2*: [Association rule mining](https://github.com/cse6040/labs-fa17/tree/master/lab2-assoc_rule_mining) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab2)
 * *Lab 3*: [Review: Math prerequisites](https://github.com/cse6040/labs-fa17/tree/master/lab3-mathrev)
 * *Lab 4*: [Floating-point arithmetic](https://github.com/cse6040/labs-fa17/tree/master/lab4-fp) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab4)
+* *Lab 5*: [Regular expressions](https://github.com/cse6040/labs-fa17/tree/master/lab5-regex) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab5)
