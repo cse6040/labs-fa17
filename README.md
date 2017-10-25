@@ -14,3 +14,4 @@ This repository contains the Jupyter notebooks (assignments) for
 * *Lab 7*: [Tidy data + Pandas](https://github.com/cse6040/labs-fa17/tree/master/lab7-tidy-pandas) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab7)
 * *Lab 8*: [Data visualization](https://github.com/cse6040/labs-fa17/tree/master/lab8-viz) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab8)
 * *Lab 9*: [SQL](https://github.com/cse6040/labs-fa17/tree/master/lab9-sql) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab9)
+* *Lab 10*: [SQL](https://github.com/cse6040/labs-fa17/tree/master/lab10-numpy) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab10)
