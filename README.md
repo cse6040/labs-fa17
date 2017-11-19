@@ -17,3 +17,4 @@ This repository contains the Jupyter notebooks (assignments) for
 * *Lab 10*: [Numpy](https://github.com/cse6040/labs-fa17/tree/master/lab10-numpy) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab10)
 * *Lab 11*: [Markov chains/PageRank](https://github.com/cse6040/labs-fa17/tree/master/lab11-markov_chains) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab11)
 * *Lab 12*: [Linear regression](https://github.com/cse6040/labs-fa17/tree/master/lab12-linreg) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab12)
+* *Lab 13*: [Logistic regression](https://github.com/cse6040/labs-fa17/tree/master/lab13-logreg) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab13)
