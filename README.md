@@ -18,4 +18,5 @@ This repository contains the Jupyter notebooks (assignments) for
 * *Lab 11*: [Markov chains/PageRank](https://github.com/cse6040/labs-fa17/tree/master/lab11-markov_chains) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab11)
 * *Lab 12*: [Linear regression](https://github.com/cse6040/labs-fa17/tree/master/lab12-linreg) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab12)
 * *Lab 13*: [Logistic regression](https://github.com/cse6040/labs-fa17/tree/master/lab13-logreg) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab13)
-* *Lab 14*: [Logistic regression](https://github.com/cse6040/labs-fa17/tree/master/lab14-kmeans) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab14)
+* *Lab 14*: [K-means](https://github.com/cse6040/labs-fa17/tree/master/lab14-kmeans) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab14)
+* *Lab 15*: [PCA+SVD](https://github.com/cse6040/labs-fa17/tree/master/lab15-pca-svd) -- [Launch on Azure Notebooks](https://notebooks.azure.com/richie/libraries/cse6040fa17lab15)
